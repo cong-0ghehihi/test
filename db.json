@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "iPhone 15 Pro",
+      "color": "Titan Xanh",
+      "category": "Mobile",
+      "description": "6.7 inch, OLED, Super Retina XDR, 2796 x 1290 Pixels",
+      "rate": "4",
+      "price": 31490000
+    },
+    {
+      "id": 2,
+      "product_name": "iPhone 15 Pro",
+      "color": "Titan Đen",
+      "category": "Mobile",
+      "description": "6.7 inch, OLED, Super Retina XDR, 2796 x 1290 Pixels",
+      "rate": "4",
+      "price": 31490000
+    }
+  ]
+}
